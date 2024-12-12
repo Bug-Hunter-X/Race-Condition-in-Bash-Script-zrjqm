@@ -1,0 +1,2 @@
+# Race Condition Bug in Bash
+This repository demonstrates a race condition bug in a bash script and its solution. The script showcases how concurrent access to a file without proper synchronization can lead to data corruption. The solution introduces a locking mechanism to prevent the race condition.
